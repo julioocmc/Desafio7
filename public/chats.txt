@@ -1,0 +1,26 @@
+[
+  {
+    "mail": "carlos@edge.com",
+    "mensaje": "Hola mundo desde EDGE!!!",
+    "fecha": "29/08/2022 23:13:33",
+    "id": 1
+  },
+  {
+    "mail": "mariano@chrome.com",
+    "mensaje": "Hola mundo desde CHROME!!!",
+    "fecha": "29/08/2022 23:14:05",
+    "id": 2
+  },
+  {
+    "mail": "belmonte@edge.com",
+    "mensaje": "Hola mundo nuevamente desde EDGE!!!",
+    "fecha": "30/08/2022 08:34:43",
+    "id": 3
+  },
+  {
+    "mail": "belmonte@chrome.com",
+    "mensaje": "Hola mundo nuevamente desde CHROME!!!",
+    "fecha": "30/08/2022 08:35:07",
+    "id": 4
+  }
+]
